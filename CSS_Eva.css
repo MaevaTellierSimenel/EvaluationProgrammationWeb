@@ -3,3 +3,8 @@
 	background-repeat: no-repeat;
 	display:  flex;
 }
+.monstre{
+  background-image:  url("https://opengameart.org/sites/default/files/styles/medium/public/threeformsPJ2.png");
+  background-repeat:  no-repeat;
+  margin-top: 60;
+}
