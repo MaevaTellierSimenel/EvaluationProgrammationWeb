@@ -1,4 +1,5 @@
 .ecranJeu{
 	background-image: url("https://opengameart.org/sites/default/files/styles/medium/public/paisaje%20artico.png.preview.jpg");
+	background-repeat: no-repeat;
 	flex: display;
 }
